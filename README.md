@@ -1,4 +1,4 @@
-# LeetCode Java Workspace Codex
+# LeetCode Java Workspace
 
 ## Purpose
 
@@ -11,7 +11,7 @@ Each problem should live in a single `.java` file that contains:
 
 ## Current Active File
 
-- `src/main/java/codex/leetcode/Problem001ContainsDuplicate_codex.java`
+- `src/main/java/codex/leetcode/Problem001ContainsDuplicate.java`
 
 ## Workflow
 
@@ -19,10 +19,4 @@ Each problem should live in a single `.java` file that contains:
 2. Fill in the reasoning comment block first.
 3. Write code only after the reasoning is clear.
 4. Paste the code to LeetCode if you want to run it there.
-5. Update `context_preservation_codex.md` after meaningful progress.
-
-## Naming Convention
-
-- directory names and non-standard files use `_codex`
-- Java problem files use `_codex.java`
-- class names use `Codex` suffix when needed
+5. Update your local study tracker after meaningful progress.

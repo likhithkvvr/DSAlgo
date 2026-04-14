@@ -29,7 +29,7 @@ package codex.leetcode;
  * Common bug to avoid:
  * -
  */
-class Problem001ContainsDuplicateCodex {
+class Problem001ContainsDuplicate {
 
     boolean containsDuplicate(final int[] nums) {
         throw new UnsupportedOperationException("Implement after reasoning is complete.");
